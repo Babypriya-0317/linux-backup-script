@@ -1,0 +1,169 @@
+[2026-06-14_08-36-32] Backup started...
+sending incremental file list
+created directory /home/babypriyaa/backup_project/backups/backup_2026-06-14_08-36-32
+source_folder/
+source_folder/file1.txt
+             24 100%    0.00kB/s    0:00:00               24 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=1/3)
+source_folder/file2.txt
+             24 100%   23.44kB/s    0:00:00               24 100%   23.44kB/s    0:00:00 (xfr#2, to-chk=0/3)
+
+sent 273 bytes  received 147 bytes  840.00 bytes/sec
+total size is 48  speedup is 0.11
+[2026-06-14_08-36-32] Backup SUCCESS - Saved as backup_2026-06-14_08-36-32
+-------------------------------
+[2026-06-14_08-37-02] Backup started...
+sending incremental file list
+created directory /home/babypriyaa/backup_project/backups/backup_2026-06-14_08-37-02
+source_folder/
+source_folder/file1.txt
+             24 100%    0.00kB/s    0:00:00               24 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=1/3)
+source_folder/file2.txt
+             24 100%   23.44kB/s    0:00:00               24 100%   23.44kB/s    0:00:00 (xfr#2, to-chk=0/3)
+
+sent 273 bytes  received 147 bytes  840.00 bytes/sec
+total size is 48  speedup is 0.11
+[2026-06-14_08-37-02] Backup SUCCESS - Saved as backup_2026-06-14_08-37-02
+-------------------------------
+[2026-06-14_08-41-02] Backup started...
+sending incremental file list
+created directory /home/babypriyaa/backup_project/backups/backup_2026-06-14_08-41-02
+source_folder/
+source_folder/file1.txt
+             24 100%    0.00kB/s    0:00:00               24 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=1/3)
+source_folder/file2.txt
+             24 100%   23.44kB/s    0:00:00               24 100%   23.44kB/s    0:00:00 (xfr#2, to-chk=0/3)
+
+sent 273 bytes  received 147 bytes  840.00 bytes/sec
+total size is 48  speedup is 0.11
+[2026-06-14_08-41-02] Backup SUCCESS - Saved as backup_2026-06-14_08-41-02
+-------------------------------
+[2026-06-14_08-42-01] Backup started...
+sending incremental file list
+created directory /home/babypriyaa/backup_project/backups/backup_2026-06-14_08-42-01
+source_folder/
+source_folder/file1.txt
+             24 100%    0.00kB/s    0:00:00               24 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=1/3)
+source_folder/file2.txt
+             24 100%   23.44kB/s    0:00:00               24 100%   23.44kB/s    0:00:00 (xfr#2, to-chk=0/3)
+
+sent 273 bytes  received 147 bytes  840.00 bytes/sec
+total size is 48  speedup is 0.11
+[2026-06-14_08-42-01] Backup SUCCESS - Saved as backup_2026-06-14_08-42-01
+-------------------------------
+[2026-06-14_08-43-00] Backup started...
+sending incremental file list
+created directory /home/babypriyaa/backup_project/backups/backup_2026-06-14_08-43-00
+source_folder/
+source_folder/file1.txt
+             24 100%    0.00kB/s    0:00:00               24 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=1/3)
+source_folder/file2.txt
+             24 100%   23.44kB/s    0:00:00               24 100%   23.44kB/s    0:00:00 (xfr#2, to-chk=0/3)
+
+sent 273 bytes  received 147 bytes  840.00 bytes/sec
+total size is 48  speedup is 0.11
+[2026-06-14_08-43-00] Backup SUCCESS - Saved as backup_2026-06-14_08-43-00
+-------------------------------
+[2026-06-14_08-44-01] Backup started...
+sending incremental file list
+created directory /home/babypriyaa/backup_project/backups/backup_2026-06-14_08-44-01
+source_folder/
+source_folder/file1.txt
+             24 100%    0.00kB/s    0:00:00               24 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=1/3)
+source_folder/file2.txt
+             24 100%   23.44kB/s    0:00:00               24 100%   23.44kB/s    0:00:00 (xfr#2, to-chk=0/3)
+
+sent 273 bytes  received 147 bytes  840.00 bytes/sec
+total size is 48  speedup is 0.11
+[2026-06-14_08-44-01] Backup SUCCESS - Saved as backup_2026-06-14_08-44-01
+-------------------------------
+[2026-06-14_08-45-01] Backup started...
+sending incremental file list
+created directory /home/babypriyaa/backup_project/backups/backup_2026-06-14_08-45-01
+source_folder/
+source_folder/file1.txt
+             24 100%    0.00kB/s    0:00:00               24 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=1/3)
+source_folder/file2.txt
+             24 100%   23.44kB/s    0:00:00               24 100%   23.44kB/s    0:00:00 (xfr#2, to-chk=0/3)
+
+sent 273 bytes  received 147 bytes  840.00 bytes/sec
+total size is 48  speedup is 0.11
+[2026-06-14_08-45-01] Backup SUCCESS - Saved as backup_2026-06-14_08-45-01
+-------------------------------
+[2026-06-14_08-46-01] Backup started...
+sending incremental file list
+created directory /home/babypriyaa/backup_project/backups/backup_2026-06-14_08-46-01
+source_folder/
+source_folder/file1.txt
+             24 100%    0.00kB/s    0:00:00               24 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=1/3)
+source_folder/file2.txt
+             24 100%   23.44kB/s    0:00:00               24 100%   23.44kB/s    0:00:00 (xfr#2, to-chk=0/3)
+
+sent 273 bytes  received 147 bytes  840.00 bytes/sec
+total size is 48  speedup is 0.11
+[2026-06-14_08-46-01] Backup SUCCESS - Saved as backup_2026-06-14_08-46-01
+-------------------------------
+[2026-06-14_08-47-01] Backup started...
+sending incremental file list
+created directory /home/babypriyaa/backup_project/backups/backup_2026-06-14_08-47-01
+source_folder/
+source_folder/file1.txt
+             24 100%    0.00kB/s    0:00:00               24 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=1/3)
+source_folder/file2.txt
+             24 100%   23.44kB/s    0:00:00               24 100%   23.44kB/s    0:00:00 (xfr#2, to-chk=0/3)
+
+sent 273 bytes  received 147 bytes  840.00 bytes/sec
+total size is 48  speedup is 0.11
+[2026-06-14_08-47-01] Backup SUCCESS - Saved as backup_2026-06-14_08-47-01
+-------------------------------
+[2026-06-14_08-48-01] Backup started...
+sending incremental file list
+created directory /home/babypriyaa/backup_project/backups/backup_2026-06-14_08-48-01
+source_folder/
+source_folder/file1.txt
+             24 100%    0.00kB/s    0:00:00               24 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=1/3)
+source_folder/file2.txt
+             24 100%   23.44kB/s    0:00:00               24 100%   23.44kB/s    0:00:00 (xfr#2, to-chk=0/3)
+
+sent 273 bytes  received 147 bytes  840.00 bytes/sec
+total size is 48  speedup is 0.11
+[2026-06-14_08-48-01] Backup SUCCESS - Saved as backup_2026-06-14_08-48-01
+-------------------------------
+[2026-06-14_08-49-01] Backup started...
+sending incremental file list
+created directory /home/babypriyaa/backup_project/backups/backup_2026-06-14_08-49-01
+source_folder/
+source_folder/file1.txt
+             24 100%    0.00kB/s    0:00:00               24 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=1/3)
+source_folder/file2.txt
+             24 100%   23.44kB/s    0:00:00               24 100%   23.44kB/s    0:00:00 (xfr#2, to-chk=0/3)
+
+sent 273 bytes  received 147 bytes  840.00 bytes/sec
+total size is 48  speedup is 0.11
+[2026-06-14_08-49-01] Backup SUCCESS - Saved as backup_2026-06-14_08-49-01
+-------------------------------
+[2026-06-14_08-50-01] Backup started...
+sending incremental file list
+created directory /home/babypriyaa/backup_project/backups/backup_2026-06-14_08-50-01
+source_folder/
+source_folder/file1.txt
+             24 100%    0.00kB/s    0:00:00               24 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=1/3)
+source_folder/file2.txt
+             24 100%   23.44kB/s    0:00:00               24 100%   23.44kB/s    0:00:00 (xfr#2, to-chk=0/3)
+
+sent 273 bytes  received 147 bytes  840.00 bytes/sec
+total size is 48  speedup is 0.11
+[2026-06-14_08-50-01] Backup SUCCESS - Saved as backup_2026-06-14_08-50-01
+-------------------------------
+[2026-06-14_08-51-00] Backup started...
+sending incremental file list
+created directory /home/babypriyaa/backup_project/backups/backup_2026-06-14_08-51-00
+source_folder/
+source_folder/file1.txt
+             24 100%    0.00kB/s    0:00:00               24 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=1/3)
+source_folder/file2.txt
+             24 100%   23.44kB/s    0:00:00               24 100%   23.44kB/s    0:00:00 (xfr#2, to-chk=0/3)
+
+sent 273 bytes  received 147 bytes  840.00 bytes/sec
+total size is 48  speedup is 0.11
+[2026-06-14_08-51-00] Backup SUCCESS - Saved as backup_2026-06-14_08-51-00
+-------------------------------
