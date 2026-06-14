@@ -26,8 +26,7 @@ backup_project/
 
 ## How to Run
 # Clone the repo
-git clone https://github.com/babypriyaa/linux-backup-script
-
+git clone https://github.com/Babypriya-0317/linux-backup-script
 # Give permission
 chmod +x backup.sh
 
@@ -37,6 +36,5 @@ chmod +x backup.sh
 ## Automate With Cron
 # Open crontab
 crontab -e
-
 # Add this line to run every day at midnight
 0 0 * * * /home/username/backup_project/backup.sh
