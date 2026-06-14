@@ -5,9 +5,12 @@ A bash script that automatically backs up folders with
 date & time stamping, logging, and cron scheduling.
 
 ## Features
-- Automatic folder backup
-- Date & time stamped backup folders
-- Activity logging
+- Automatic folder backup with compression (tar.gz)
+- Multiple folder backup support
+- Date & time stamped backup files
+- Backup size logging
+- Auto delete backups older than 7 days
+- Activity logging with timestamp
 - Automated scheduling using cron
 
 ## Technologies Used
