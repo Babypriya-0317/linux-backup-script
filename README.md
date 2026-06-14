@@ -17,6 +17,8 @@ date & time stamping, logging, and cron scheduling.
 - Linux (Ubuntu)
 - Bash Scripting
 - rsync
+- tar (compression)
+- find (auto cleanup)
 - cron
 
 ## Project Structure
